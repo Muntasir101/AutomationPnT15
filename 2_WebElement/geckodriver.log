@@ -1,0 +1,28 @@
+1694784259254	geckodriver	INFO	Listening on 127.0.0.1:56669
+1694784262340	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56670" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofilehY6LNu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694784263078	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694784263196	Marionette	INFO	Listening on port 56684
+WebDriver BiDi listening on ws://127.0.0.1:56670
+Read port: 56684
+1694784263752	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56670/devtools/browser/56a86563-deda-4736-8559-0f060778c035
+1694788956427	Marionette	INFO	Stopped listening on port 56684
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56852" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileeE8hGH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694784381184	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694784381258	Marionette	INFO	Listening on port 56864
+WebDriver BiDi listening on ws://127.0.0.1:56852
+Read port: 56864
+1694784381449	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56852/devtools/browser/602074d3-c26e-4b56-8c1f-7157961a7fc0
+1694784418332	Marionette	INFO	Stopped listening on port 56864
+Dynamically enable window occlusion 1
+console.warn: services.settings: main/normandy-recipes-capabilities sync interrupted by shutdown
+console.warn: services.settings: main/url-classifier-skip-urls sync interrupted by shutdown
+console.error: (new AbortError("IndexedDB: main/nimbus-web-experiments getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.jsm", 18))
