@@ -1,0 +1,20 @@
+1695393236646	geckodriver	INFO	Listening on 127.0.0.1:54919
+1695393239734	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54920" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileDazOHz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695393240277	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695393240373	Marionette	INFO	Listening on port 54932
+Read port: 54932
+WebDriver BiDi listening on ws://127.0.0.1:54920
+1695393240474	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54920/devtools/browser/8ba65c9b-1a2a-4410-8691-aee1a70d9962
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+JavaScript warning: https://automationexercise.com/static/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://automationexercise.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://automationexercise.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://automationexercise.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://automationexercise.com."
+JavaScript warning: https://automationexercise.com/static/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1695393268179	Marionette	INFO	Stopped listening on port 54932
+Dynamically enable window occlusion 1

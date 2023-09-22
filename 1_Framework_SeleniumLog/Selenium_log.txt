@@ -1,0 +1,19 @@
+2023-09-22 19:11:26,984 - INFO: Launching browser
+2023-09-22 19:11:28,695 - INFO: Navigating to https://automationexercise.com/login
+2023-09-22 19:11:50,934 - INFO: Username Typed
+2023-09-22 19:11:51,016 - INFO: Email Typed
+2023-09-22 19:12:12,488 - INFO: Signup Button Clicked
+2023-09-22 19:12:12,488 - INFO: Terminating browser.
+2023-09-22 19:15:05,139 - INFO: Launching browser
+2023-09-22 19:15:06,700 - INFO: Navigating to https://automationexercise.com/login
+2023-09-22 19:15:28,244 - INFO: Username TypedAndrea Benson
+2023-09-22 19:15:28,314 - INFO: Email Typedfsmith@example.org
+2023-09-22 19:15:49,737 - INFO: Signup Button Clicked
+2023-09-22 19:15:49,737 - INFO: Terminating browser.
+2023-09-22 19:17:04,158 - INFO: ------------------------------
+2023-09-22 19:17:04,168 - INFO: Launching browser
+2023-09-22 19:17:05,649 - INFO: Navigating to https://automationexercise.com/login
+2023-09-22 19:17:27,402 - INFO: Username Typed: Candice Jordan
+2023-09-22 19:17:27,478 - INFO: Email Typed: danielmiller@example.net
+2023-09-22 19:17:48,725 - INFO: Signup Button Clicked
+2023-09-22 19:17:48,726 - INFO: Terminating browser.

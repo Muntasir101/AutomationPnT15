@@ -1,0 +1,24 @@
+2023-09-22 19:30:14,693 - INFO: ------------------------------
+2023-09-22 19:30:14,693 - INFO: Launching browser
+2023-09-22 19:30:16,378 - INFO: Navigating to https://automationexercise.com/login
+2023-09-22 19:30:39,226 - INFO: Username Typed: Monica Gilmore
+2023-09-22 19:30:39,301 - INFO: Email Typed: hpatterson@example.com
+2023-09-22 19:31:01,162 - INFO: Signup Button Clicked
+2023-09-22 19:31:01,162 - INFO: Terminating browser.
+2023-09-22 19:32:49,059 - INFO: ------------------------------
+2023-09-22 19:32:49,059 - INFO: Launching browser
+2023-09-22 19:32:50,446 - INFO: Navigating to https://automationexercise.com/login
+2023-09-22 19:33:12,413 - INFO: Username Typed: Michael Barrera
+2023-09-22 19:33:12,479 - INFO: Email Typed: justinsmith@example.org
+2023-09-22 19:33:34,191 - INFO: Signup Button Clicked
+2023-09-22 19:33:34,191 - INFO: Terminating browser.
+2023-09-22 19:40:30,734 - INFO: ------------------------------
+2023-09-22 19:40:30,734 - INFO: Launching browser
+2023-09-22 19:40:33,482 - INFO: Navigating to https://automationexercise.com/login
+2023-09-22 19:42:39,025 - INFO: ------------------------------
+2023-09-22 19:42:39,025 - INFO: Launching browser
+2023-09-22 19:42:40,423 - INFO: Navigating to https://automationexercise.com/login
+2023-09-22 19:43:01,905 - INFO: Username Typed: Kristin Reyes
+2023-09-22 19:43:01,973 - INFO: Email Typed: haydenkimberly@example.com
+2023-09-22 19:43:23,235 - INFO: Signup Button Clicked
+2023-09-22 19:43:23,235 - INFO: Terminating browser.

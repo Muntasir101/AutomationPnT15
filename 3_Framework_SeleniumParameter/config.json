@@ -1,0 +1,6 @@
+{
+  "url": "https://automationexercise.com/login",
+  "headless": false,
+  "browser": "firefox"
+}
+
